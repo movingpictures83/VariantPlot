@@ -1,0 +1,2 @@
+Prefix plugins/VariantPlot/example/
+Plugin VariantPlot inputfile VariantGraph.rds outputfile VariantGraph.pdf
